@@ -22,4 +22,5 @@ promiseTwo.then((data, cb) => {
   promise.then((pdata) => console.log(pdata));
 });
 
+console.log(promiseTwo);
 //** combines both  **//
